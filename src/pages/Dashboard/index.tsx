@@ -5,7 +5,7 @@ import api from '../../services/api';
 
 import logoImg from '../../assets/logo.svg';
 
-import { Title, Form, Repositories, Error } from './styles';
+import { Title, Form, Repositories, Error, Paragraph } from './styles';
 
 interface Repository {
   full_name: string;
@@ -43,7 +43,9 @@ const Dashboard: React.FC = () => {
     event.preventDefault();
 
     if (!newRepo) {
-      setInputError("Type the author/repository's name");
+      setInputError(
+        "Type the author/repository's name. E.g. 'facebook/react', 'mikemorcerf/github-explorer'",
+      );
       return;
     }
 
@@ -71,12 +73,13 @@ const Dashboard: React.FC = () => {
         <input
           value={newRepo}
           onChange={(e) => setNewRepo(e.target.value)}
-          placeholder="Type the author/repository's name. E.g. 'facebook/react', 'mikemorcerf/github-explorer'"
+          placeholder="Type author/repository's name."
         />
         <button type="submit">Search</button>
       </Form>
 
       {inputError && <Error>{inputError}</Error>}
+      <Paragraph>E.g. facebook/react, mikemorcerf/github-explorer</Paragraph>
 
       <Repositories>
         {repositories.map((repository) => (
