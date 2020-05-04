@@ -56,7 +56,9 @@ const Dashboard: React.FC = () => {
       setNewRepo('');
       setInputError('');
     } catch {
-      setInputError('Error fetching this repository');
+      setInputError(
+        "Error fetching this repository. Type the author/repository's name. E.g. 'facebook/react', 'mikemorcerf/github-explorer'",
+      );
     }
   }
 
@@ -69,7 +71,7 @@ const Dashboard: React.FC = () => {
         <input
           value={newRepo}
           onChange={(e) => setNewRepo(e.target.value)}
-          placeholder="Type the repository's name"
+          placeholder="Type the author/repository's name. E.g. 'facebook/react', 'mikemorcerf/github-explorer'"
         />
         <button type="submit">Search</button>
       </Form>
