@@ -24,15 +24,6 @@
 * [License](#closed_book-license)
 
 
-<p align="center">
-  <img align="center" src="https://i.ibb.co/tM9Bynr/Web-Signin.png" alt="Web-Signin" border="0">
-</p>
-<br>
-<p align="center">
-  <img align="center" src="https://i.ibb.co/gP77Lt5/Web-Plans.png" alt="Web-Plans" border="0">
-</p>
-<br>
-
 # :wrench: Technologies
 
 *  [Node.js](https://nodejs.org/en/)
