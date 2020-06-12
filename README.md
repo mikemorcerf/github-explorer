@@ -27,12 +27,12 @@
 # :wrench: Technologies
 
 *  [Node.js](https://nodejs.org/en/)
-*  [axios](https://github.com/axios/axios)
+*  [Axios](https://github.com/axios/axios)
 *  [Polished](https://polished.js.org/)
 *  [ReactJS](https://reactjs.org/)
 *  [React Icons](https://react-icons.github.io/react-icons/)
 *  [React Router v4](https://github.com/ReactTraining/react-router)
-*  [styled-components](https://www.styled-components.com/)
+*  [Styled-components](https://www.styled-components.com/)
 *  [Typescript](https://www.typescriptlang.org/)
 
 # :rocket: Features
