@@ -21,8 +21,8 @@
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
 * [Found a bug? Missing a specific feature?](#bug-issues)
-* [License](#closed_book-license)
 * [Acknowledgment](#clap-acknowledgment)
+* [License](#closed_book-license)
 
 
 # :wrench: Technologies
