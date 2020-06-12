@@ -66,13 +66,14 @@ To start this application in development environment (default address: http://lo
 
 Feel free to **file a new issue** with a respective title and description on the [Github Explorer](https://github.com/mikemorcerf/github-explorer/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
+# :clap: Acknowledgment
+
+Thanks to [Rocketseat](https://rocketseat.com.br/) for supporting the community and sharing amazing tech content.
+
 # :closed_book: License
 
 Released in 2020.
 This project is under the MIT license.
 
-# :clap: Acknowledgment
-
-Thanks to [Rocketseat](https://rocketseat.com.br/) for supporting the community and sharing amazing tech content.
 
 Made with ♥ by [Michael de Morcerf e Moura](https://github.com/mikemorcerf) [:bowtie: Say hi!](https://www.linkedin.com/in/michaelmoura/)
