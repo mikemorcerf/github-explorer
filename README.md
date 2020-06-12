@@ -70,4 +70,4 @@ Feel free to **file a new issue** with a respective title and description on the
 Released in 2020.
 This project is under the MIT license.
 
-Made with ♥ by [Michael de Morcerf e Moura](https://github.com/mikemorcerf) [:bowtie: Say hi!](https://www.linkedin.com/in/michaelmoura/).
+Made with ♥ by [Michael de Morcerf e Moura](https://github.com/mikemorcerf) [:bowtie: Say hi!](https://www.linkedin.com/in/michaelmoura/)
