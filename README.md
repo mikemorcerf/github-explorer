@@ -51,7 +51,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 ```git clone git@github.com:mikemorcerf/github-explorer.git```
 
-**Install dependencies**
+**Install dependencies:**
 
 ```yarn install```
 
@@ -63,7 +63,7 @@ To start this application in development environment (default address: http://lo
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Gympoint Web](https://github.com/mikemorcerf/github-explorer/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the [Github Explorer](https://github.com/mikemorcerf/github-explorer/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 # :closed_book: License
 
