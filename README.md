@@ -22,6 +22,7 @@
 * [Getting Started](#runner-getting-started)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [License](#closed_book-license)
+* [Acknowledgment](#clap-acknowledgment)
 
 
 # :wrench: Technologies
@@ -69,5 +70,9 @@ Feel free to **file a new issue** with a respective title and description on the
 
 Released in 2020.
 This project is under the MIT license.
+
+# :clap: Acknowledgment
+
+Thanks to [Rocketseat](https://rocketseat.com.br/) for supporting the community and sharing amazing tech content.
 
 Made with ♥ by [Michael de Morcerf e Moura](https://github.com/mikemorcerf) [:bowtie: Say hi!](https://www.linkedin.com/in/michaelmoura/)
