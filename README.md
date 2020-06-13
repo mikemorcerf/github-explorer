@@ -20,6 +20,7 @@
 * [Features](#rocket-features)
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
+* [How to Use](#feet-how-to-use)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [Acknowledgment](#clap-acknowledgment)
 * [License](#closed_book-license)
@@ -61,6 +62,23 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 To start this application in development environment (default address: http://localhost:3000/), run:
 
 ```yarn start```
+
+# :feet: How to Use
+
+[Working Online Demo](https://github-explorer-reactjs.herokuapp.com/)
+</br>
+Keep track of your favorite Github repositories and save them in your browser's local storage.
+</br>
+Type the user/repository-name that you want to follow and click "Search" in order to save that repository in local storage.
+<p align="center">
+   <img alt="github explorer instructions picture" src="https://res.cloudinary.com/mikemoura/image/upload/v1592084142/github-explorer/Instructions/github-explorer_instructions_1_cls0nx.png"/>
+</p>
+Click the repository name in the list of saved repositories to be taken to its page.
+</br>
+In the repository page you can see the number of Stars, Forks and Open Issues that repository has. Also, a list of the repositories' Open Issues will load, where you can click to access its Open Issue page on Github.
+<p align="center">
+   <img alt="github explorer instructions picture" src="https://res.cloudinary.com/mikemoura/image/upload/v1592084142/github-explorer/Instructions/github-explorer_instructions_2_d3gilm.png"/>
+</p>
 
 # :bug: Issues
 
